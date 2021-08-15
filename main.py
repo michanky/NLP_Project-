@@ -7,7 +7,6 @@ from transformers import pipeline
 import config as cfg
 
 summarizer = pipeline("summarization")
-
 reddit = praw.Reddit(
     client_id=cfg.CLIENT_ID,
     client_secret=cfg.CLIENT_SECRET,
@@ -21,7 +20,7 @@ subreddit = reddit.subreddit('articlessgtest')
 
 for post in subreddit.new(limit=None):
     if 'todayonline' in post.url:
-        dictionary_of_websites['Today'].append(post.url)
+        dictionary_of_websites['Today'].append([post.url])
     elif 'straitstimes' in post.url:
         dictionary_of_websites['ST'].append(post.url)
     else:
