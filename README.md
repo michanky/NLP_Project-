@@ -17,4 +17,4 @@ You will need to a config.py file in order to run PRAW
  
  Used the BART Transformer found in <a href= "https://github.com/huggingface">Hugging Face</a>
  
- Link to subreddit: <a href= "https://www.reddit.com/r/articlessgtest/">here</a>
+ Link to subreddit: <a href= "https://www.reddit.com/r/articlessgtest/">here</a>. Previous posts have already been populated with the bot's comments. 
