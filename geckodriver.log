@@ -1,0 +1,818 @@
+1629127831489	geckodriver	INFO	Listening on 127.0.0.1:63531
+1629127834599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilePPGtOf"
+1629127835338	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629127835977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629127835978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629127835978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629127835978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629127838945	Marionette	INFO	Listening on port 63547
+1629127839420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.straitstimes.com/asia/se-asia/top-bersatu-leaders-seen-arriving-for-meeting-amid-malaysias-political-crisis, line 986: TypeError: cidd is undefined
+JavaScript error: https://www.straitstimes.com/asia/se-asia/top-bersatu-leaders-seen-arriving-for-meeting-amid-malaysias-political-crisis, line 1965: TypeError: cidd is undefined
+1629127852206	Marionette	INFO	Stopped listening on port 63547
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629127854657	geckodriver	INFO	Listening on 127.0.0.1:63750
+1629127857735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileLPkuuG"
+1629127858229	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629127858837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629127858837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629127858838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629127858838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629127861412	Marionette	INFO	Listening on port 63766
+1629127861937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/some-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=214866128, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=214866128, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=214866128, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=214866128 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=214866128 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.5298864786767885&iit=1629127866682&tmr=load%3D1629127866629%26core%3D1629127866669%26main%3D1629127866675%26ifr%3D1629127866689&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a84ba0f32ca3d&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.5298864786767885&iit=1629127866682&tmr=load%3D1629127866629%26core%3D1629127866669%26main%3D1629127866675%26ifr%3D1629127866689&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a84ba0f32ca3d&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629127874046	Marionette	INFO	Stopped listening on port 63766
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629127876529	geckodriver	INFO	Listening on 127.0.0.1:63983
+1629127879610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileqWzBF5"
+1629127880262	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629127880947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629127880948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629127880948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629127880948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629127883905	Marionette	INFO	Listening on port 63999
+1629127883921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/covid-19-singapore-aug-11-2021, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1023696860, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1023696860, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1023696860, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1023696860 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1023696860 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.002683426879641626&iit=1629127887138&tmr=load%3D1629127887088%26core%3D1629127887126%26main%3D1629127887133%26ifr%3D1629127887144&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&dt=Covid-19%3A%203%20new%20clusters%20detected%3B%20dip%20in%20number%20of%20patients%20in%20ICU&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a84cf166e005c&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252Ftdymoh0811b.jpg%253Fitok%253DnuysPb1_%26width%3D1300%26height%3D650%26title%3DCovid-19%253A%25203%2520new%2520clusters%2520detected%253B%2520dip%2520in%2520number%2520of%2520patients%2520in%2520ICU%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.002683426879641626&iit=1629127887138&tmr=load%3D1629127887088%26core%3D1629127887126%26main%3D1629127887133%26ifr%3D1629127887144&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&dt=Covid-19%3A%203%20new%20clusters%20detected%3B%20dip%20in%20number%20of%20patients%20in%20ICU&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a84cf166e005c&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252Ftdymoh0811b.jpg%253Fitok%253DnuysPb1_%26width%3D1300%26height%3D650%26title%3DCovid-19%253A%25203%2520new%2520clusters%2520detected%253B%2520dip%2520in%2520number%2520of%2520patients%2520in%2520ICU%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629127893944	Marionette	INFO	Stopped listening on port 63999
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629127896870	geckodriver	INFO	Listening on 127.0.0.1:64210
+1629127899930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileZwxioC"
+1629127900448	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629127901081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629127901081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629127901081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629127901081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629127903745	Marionette	INFO	Listening on port 64227
+1629127904114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/70-singapores-population-fully-vaccinated-under-national-programme-moh, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1560876942, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.2013353443922633&iit=1629127908424&tmr=load%3D1629127908364%26core%3D1629127908404%26main%3D1629127908414%26ifr%3D1629127908433&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&dt=70%25%20of%20population%20vaccinated%20against%20Covid-19%3B%20no%20booking%20needed%20for%20Pfizer%20shot%20from%20Aug%2010%3A%20MOH&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a84e409b08e77&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210421_ili_yew_tee_cc_covid-19_vaccine_centre_-11.jpg%253Fitok%253D_srcZGq8%26width%3D1300%26height%3D650%26title%3D70%2525%2520of%2520population%2520vaccinated%2520against%2520Covid-19%253B%2520no%2520booking%2520needed%2520for%2520Pfizer%2520shot%2520from%2520Aug%252010%253A%2520MOH%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.2013353443922633&iit=1629127908424&tmr=load%3D1629127908364%26core%3D1629127908404%26main%3D1629127908414%26ifr%3D1629127908433&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&dt=70%25%20of%20population%20vaccinated%20against%20Covid-19%3B%20no%20booking%20needed%20for%20Pfizer%20shot%20from%20Aug%2010%3A%20MOH&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a84e409b08e77&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210421_ili_yew_tee_cc_covid-19_vaccine_centre_-11.jpg%253Fitok%253D_srcZGq8%26width%3D1300%26height%3D650%26title%3D70%2525%2520of%2520population%2520vaccinated%2520against%2520Covid-19%253B%2520no%2520booking%2520needed%2520for%2520Pfizer%2520shot%2520from%2520Aug%252010%253A%2520MOH%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629127915527	Marionette	INFO	Stopped listening on port 64227
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629129889278	geckodriver	INFO	Listening on 127.0.0.1:52382
+1629129892350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile91ZmBi"
+1629129893050	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629129893691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629129893691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629129893691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629129893692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629129896786	Marionette	INFO	Listening on port 52398
+1629129897186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/some-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1026975349, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1026975349, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1026975349 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1026975349 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.1886718885616051&iit=1629129901487&tmr=load%3D1629129901421%26core%3D1629129901469%26main%3D1629129901478%26ifr%3D1629129901494&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a8cad8bc97e6b&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.1886718885616051&iit=1629129901487&tmr=load%3D1629129901421%26core%3D1629129901469%26main%3D1629129901478%26ifr%3D1629129901494&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a8cad8bc97e6b&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629129909241	Marionette	INFO	Stopped listening on port 52398
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629129912219	geckodriver	INFO	Listening on 127.0.0.1:55078
+1629129915285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileQwsvMY"
+1629129915794	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629129916406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629129916406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629129916406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629129916406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629129918967	Marionette	INFO	Listening on port 55094
+1629129919466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/covid-19-singapore-aug-11-2021, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1102288967, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1102288967, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1102288967 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.7970999847604585&iit=1629129923282&tmr=load%3D1629129923212%26core%3D1629129923262%26main%3D1629129923271%26ifr%3D1629129923292&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&dt=Covid-19%3A%203%20new%20clusters%20detected%3B%20dip%20in%20number%20of%20patients%20in%20ICU&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a8cc350b01e59&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252Ftdymoh0811b.jpg%253Fitok%253DnuysPb1_%26width%3D1300%26height%3D650%26title%3DCovid-19%253A%25203%2520new%2520clusters%2520detected%253B%2520dip%2520in%2520number%2520of%2520patients%2520in%2520ICU%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.7970999847604585&iit=1629129923282&tmr=load%3D1629129923212%26core%3D1629129923262%26main%3D1629129923271%26ifr%3D1629129923292&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&dt=Covid-19%3A%203%20new%20clusters%20detected%3B%20dip%20in%20number%20of%20patients%20in%20ICU&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a8cc350b01e59&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252Ftdymoh0811b.jpg%253Fitok%253DnuysPb1_%26width%3D1300%26height%3D650%26title%3DCovid-19%253A%25203%2520new%2520clusters%2520detected%253B%2520dip%2520in%2520number%2520of%2520patients%2520in%2520ICU%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629129930583	Marionette	INFO	Stopped listening on port 55094
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629129933228	geckodriver	INFO	Listening on 127.0.0.1:62224
+1629129936287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilejHAXhm"
+1629129936785	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629129937424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629129937424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629129937424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629129937424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629129940072	Marionette	INFO	Listening on port 62241
+1629129940456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/70-singapores-population-fully-vaccinated-under-national-programme-moh, line 85: TypeError: googletag.pubads is not a function
+JavaScript error: https://uid.mediacorp.sg/api/scripts/meid_seg.js?MeID=67664233-dfdd-4c57-879a-6c16301f163f&meid_callback=SuccessMeIDSeg_callback_1629129942991, line 1: TypeError: window.SuccessMeIDSeg_callback_1629129942991 is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2077073290, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2077073290, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2077073290, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2077073290 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2077073290 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.3154203537845258&iit=1629129944887&tmr=load%3D1629129944828%26core%3D1629129944873%26main%3D1629129944881%26ifr%3D1629129944894&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&dt=70%25%20of%20population%20vaccinated%20against%20Covid-19%3B%20no%20booking%20needed%20for%20Pfizer%20shot%20from%20Aug%2010%3A%20MOH&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a8cd82fdd1309&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210421_ili_yew_tee_cc_covid-19_vaccine_centre_-11.jpg%253Fitok%253D_srcZGq8%26width%3D1300%26height%3D650%26title%3D70%2525%2520of%2520population%2520vaccinated%2520against%2520Covid-19%253B%2520no%2520booking%2520needed%2520for%2520Pfizer%2520shot%2520from%2520Aug%252010%253A%2520MOH%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.3154203537845258&iit=1629129944887&tmr=load%3D1629129944828%26core%3D1629129944873%26main%3D1629129944881%26ifr%3D1629129944894&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&dt=70%25%20of%20population%20vaccinated%20against%20Covid-19%3B%20no%20booking%20needed%20for%20Pfizer%20shot%20from%20Aug%2010%3A%20MOH&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a8cd82fdd1309&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210421_ili_yew_tee_cc_covid-19_vaccine_centre_-11.jpg%253Fitok%253D_srcZGq8%26width%3D1300%26height%3D650%26title%3D70%2525%2520of%2520population%2520vaccinated%2520against%2520Covid-19%253B%2520no%2520booking%2520needed%2520for%2520Pfizer%2520shot%2520from%2520Aug%252010%253A%2520MOH%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629129951869	Marionette	INFO	Stopped listening on port 62241
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629130747373	geckodriver	INFO	Listening on 127.0.0.1:51221
+1629130750465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile4HYCF9"
+1629130751191	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629130751843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629130751843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629130751843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629130751843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629130755009	Marionette	INFO	Listening on port 51241
+1629130755285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/some-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.21743931340286282&iit=1629130759483&tmr=load%3D1629130759427%26core%3D1629130759470%26main%3D1629130759477%26ifr%3D1629130759489&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a9007ccdff615&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.21743931340286282&iit=1629130759483&tmr=load%3D1629130759427%26core%3D1629130759470%26main%3D1629130759477%26ifr%3D1629130759489&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a9007ccdff615&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629130766497	Marionette	INFO	Stopped listening on port 51241
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629130798930	geckodriver	INFO	Listening on 127.0.0.1:51457
+1629130801975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileSMr5R0"
+1629130802460	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629130803103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629130803103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629130803103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629130803103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629130805872	Marionette	INFO	Listening on port 51473
+1629130806178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/covid-19-singapore-aug-11-2021, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1113134869, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1113134869 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.591931677222977&iit=1629130810072&tmr=load%3D1629130810015%26core%3D1629130810059%26main%3D1629130810067%26ifr%3D1629130810078&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&dt=Covid-19%3A%203%20new%20clusters%20detected%3B%20dip%20in%20number%20of%20patients%20in%20ICU&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a903a027b2c87&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252Ftdymoh0811b.jpg%253Fitok%253DnuysPb1_%26width%3D1300%26height%3D650%26title%3DCovid-19%253A%25203%2520new%2520clusters%2520detected%253B%2520dip%2520in%2520number%2520of%2520patients%2520in%2520ICU%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.591931677222977&iit=1629130810072&tmr=load%3D1629130810015%26core%3D1629130810059%26main%3D1629130810067%26ifr%3D1629130810078&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&dt=Covid-19%3A%203%20new%20clusters%20detected%3B%20dip%20in%20number%20of%20patients%20in%20ICU&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a903a027b2c87&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252Ftdymoh0811b.jpg%253Fitok%253DnuysPb1_%26width%3D1300%26height%3D650%26title%3DCovid-19%253A%25203%2520new%2520clusters%2520detected%253B%2520dip%2520in%2520number%2520of%2520patients%2520in%2520ICU%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629130816952	Marionette	INFO	Stopped listening on port 51473
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629130839966	geckodriver	INFO	Listening on 127.0.0.1:51737
+1629130843035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofile1t0nC8"
+1629130843517	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629130844143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629130844144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629130844144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629130844144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629130846794	Marionette	INFO	Listening on port 51753
+1629130847271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/70-singapores-population-fully-vaccinated-under-national-programme-moh, line 85: TypeError: googletag.pubads is not a function
+JavaScript error: https://uid.mediacorp.sg/api/scripts/meid_seg.js?MeID=97cab8e1-9429-466d-8155-0113f209de99&meid_callback=SuccessMeIDSeg_callback_1629130851225, line 1: TypeError: window.SuccessMeIDSeg_callback_1629130851225 is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1030737571, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1030737571, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1030737571, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1030737571 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1030737571 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.7380644271498803&iit=1629130852950&tmr=load%3D1629130852897%26core%3D1629130852937%26main%3D1629130852944%26ifr%3D1629130852958&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&dt=70%25%20of%20population%20vaccinated%20against%20Covid-19%3B%20no%20booking%20needed%20for%20Pfizer%20shot%20from%20Aug%2010%3A%20MOH&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a9064c9330e66&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210421_ili_yew_tee_cc_covid-19_vaccine_centre_-11.jpg%253Fitok%253D_srcZGq8%26width%3D1300%26height%3D650%26title%3D70%2525%2520of%2520population%2520vaccinated%2520against%2520Covid-19%253B%2520no%2520booking%2520needed%2520for%2520Pfizer%2520shot%2520from%2520Aug%252010%253A%2520MOH%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.7380644271498803&iit=1629130852950&tmr=load%3D1629130852897%26core%3D1629130852937%26main%3D1629130852944%26ifr%3D1629130852958&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&dt=70%25%20of%20population%20vaccinated%20against%20Covid-19%3B%20no%20booking%20needed%20for%20Pfizer%20shot%20from%20Aug%2010%3A%20MOH&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a9064c9330e66&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210421_ili_yew_tee_cc_covid-19_vaccine_centre_-11.jpg%253Fitok%253D_srcZGq8%26width%3D1300%26height%3D650%26title%3D70%2525%2520of%2520population%2520vaccinated%2520against%2520Covid-19%253B%2520no%2520booking%2520needed%2520for%2520Pfizer%2520shot%2520from%2520Aug%252010%253A%2520MOH%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629130859658	Marionette	INFO	Stopped listening on port 51753
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629131316649	geckodriver	INFO	Listening on 127.0.0.1:60511
+1629131319718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileuFxq1i"
+1629131320578	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629131321211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629131321211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629131321211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629131321212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629131324097	Marionette	INFO	Listening on port 60529
+1629131324533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/some-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1414058639 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.8758038757893843&iit=1629131328517&tmr=load%3D1629131328462%26core%3D1629131328503%26main%3D1629131328510%26ifr%3D1629131328526&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a92409287b513&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.8758038757893843&iit=1629131328517&tmr=load%3D1629131328462%26core%3D1629131328503%26main%3D1629131328510%26ifr%3D1629131328526&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a92409287b513&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629131335770	Marionette	INFO	Stopped listening on port 60529
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629131372284	geckodriver	INFO	Listening on 127.0.0.1:53688
+1629131514636	geckodriver	INFO	Listening on 127.0.0.1:52047
+1629131517724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofiled9Uw86"
+1629131518663	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629131519332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629131519332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629131519333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629131519333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629131522422	Marionette	INFO	Listening on port 52063
+1629131522493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/some-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=229801077, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=229801077, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=229801077 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.6432452401337939&iit=1629131526455&tmr=load%3D1629131526403%26core%3D1629131526441%26main%3D1629131526448%26ifr%3D1629131526462&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a9306b8981a55&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.6432452401337939&iit=1629131526455&tmr=load%3D1629131526403%26core%3D1629131526441%26main%3D1629131526448%26ifr%3D1629131526462&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fsome-unvaccinated-people-not-moved-pressure-new-covid-19-rules-those-allergic-hope&dt=Some%20unvaccinated%20people%20not%20moved%20by%20%E2%80%98pressure%E2%80%99%20of%20new%20Covid-19%20rules%3B%20those%20allergic%20hope%20for%20exceptions&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a9306b8981a55&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210810_nlx_aug_10_dining_in-2.jpg%253Fitok%253DfupRhtuC%26width%3D1300%26height%3D650%26title%3DSome%2520unvaccinated%2520people%2520not%2520moved%2520by%2520%25E2%2580%2598pressure%25E2%2580%2599%2520of%2520new%2520Covid-19%2520rules%253B%2520those%2520allergic%2520hope%2520for%2520exceptions%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Some%2520people%2520who%2520have%2520chosen%2520not%2520to%2520be%2520vaccinated%2520against%2520Covid-19%2520are%2520not%2520rushing%2520to%2520get%2520themselves%2520immunised%2520even%2520though%2520new%2520regulations%2520are%2520limiting%2520their%2520social%2520activities%252C%2520saying%2520they%2520are%2520still%2520on%2520the%2520fence%2520about%2520it.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629131533321	Marionette	INFO	Stopped listening on port 52063
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/JF4U2g-hvLrBJ_UxdbKj92gN/recaptcha__en.js, line 131: NS_ERROR_NOT_INITIALIZED
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629131567945	geckodriver	INFO	Listening on 127.0.0.1:49247
+1629131571031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofileUCbD1m"
+1629131571562	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629131572191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629131572191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629131572191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629131572191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629131574812	Marionette	INFO	Listening on port 60742
+1629131575236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/covid-19-singapore-aug-11-2021, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1536997007, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1536997007, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1536997007, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1536997007 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1536997007 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.10698125744042308&iit=1629131579116&tmr=load%3D1629131579059%26core%3D1629131579103%26main%3D1629131579109%26ifr%3D1629131579123&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&dt=Covid-19%3A%203%20new%20clusters%20detected%3B%20dip%20in%20number%20of%20patients%20in%20ICU&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a933bf7fc36c9&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252Ftdymoh0811b.jpg%253Fitok%253DnuysPb1_%26width%3D1300%26height%3D650%26title%3DCovid-19%253A%25203%2520new%2520clusters%2520detected%253B%2520dip%2520in%2520number%2520of%2520patients%2520in%2520ICU%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.10698125744042308&iit=1629131579116&tmr=load%3D1629131579059%26core%3D1629131579103%26main%3D1629131579109%26ifr%3D1629131579123&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2Fcovid-19-singapore-aug-11-2021&dt=Covid-19%3A%203%20new%20clusters%20detected%3B%20dip%20in%20number%20of%20patients%20in%20ICU&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a933bf7fc36c9&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252Ftdymoh0811b.jpg%253Fitok%253DnuysPb1_%26width%3D1300%26height%3D650%26title%3DCovid-19%253A%25203%2520new%2520clusters%2520detected%253B%2520dip%2520in%2520number%2520of%2520patients%2520in%2520ICU%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Singapore%2520on%2520Wednesday%2520(Aug%252011)%2520reported%2520three%2520new%2520clusters%2520of%2520Covid-19%2520infections%2520%25E2%2580%2594%2520one%2520of%2520which%2520is%2520linked%2520to%2520a%2520pre-school%2520%25E2%2580%2594%2520as%2520well%2520as%2520a%2520drop%2520in%2520the%2520number%2520of%2520patients%2520in%2520the%2520intensive%2520care%2520units%2520from%2520the%2520day%2520before.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629131586163	Marionette	INFO	Stopped listening on port 60742
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1629131609309	geckodriver	INFO	Listening on 127.0.0.1:61001
+1629131612377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\micha\\AppData\\Local\\Temp\\rust_mozprofilewW7CD2"
+1629131612862	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1629131613507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1629131613507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1629131613508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1629131613508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629131616172	Marionette	INFO	Listening on port 61017
+1629131616571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/chunk-vendors.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.channelnewsasia.com/blueprint/cna/lib/ge-2020-min/js/app.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.todayonline.com/singapore/70-singapores-population-fully-vaccinated-under-national-programme-moh, line 85: TypeError: googletag.pubads is not a function
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1474331450, line 1: unreachable code after return statement
+JavaScript warning: https://www.todayonline.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1474331450 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.7795289252102693&iit=1629131620792&tmr=load%3D1629131620740%26core%3D1629131620779%26main%3D1629131620786%26ifr%3D1629131620797&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&dt=70%25%20of%20population%20vaccinated%20against%20Covid-19%3B%20no%20booking%20needed%20for%20Pfizer%20shot%20from%20Aug%2010%3A%20MOH&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a93647813e195&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210421_ili_yew_tee_cc_covid-19_vaccine_centre_-11.jpg%253Fitok%253D_srcZGq8%26width%3D1300%26height%3D650%26title%3D70%2525%2520of%2520population%2520vaccinated%2520against%2520Covid-19%253B%2520no%2520booking%2520needed%2520for%2520Pfizer%2520shot%2520from%2520Aug%252010%253A%2520MOH%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.7795289252102693&iit=1629131620792&tmr=load%3D1629131620740%26core%3D1629131620779%26main%3D1629131620786%26ifr%3D1629131620797&cb=0&cdn=0&md=0&kw=&ab=-&dh=www.todayonline.com&dr=&du=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&href=https%3A%2F%2Fwww.todayonline.com%2Fsingapore%2F70-singapores-population-fully-vaccinated-under-national-programme-moh&dt=70%25%20of%20population%20vaccinated%20against%20Covid-19%3B%20no%20booking%20needed%20for%20Pfizer%20shot%20from%20Aug%2010%3A%20MOH&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=131073&prod=undefined&lng=en&ogt=type%3Darticle%2Cdescription%2Csite_name%2Ctitle%2Cheight%2Cwidth%2Cimage&pc=men&pub=ra-58dca8e1849ed839&ssl=1&sid=611a93647813e195&srf=0.01&ver=300&xck=0&xtr=0&og=twitter%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26image%3Dhttps%253A%252F%252Fwww.todayonline.com%252Fsites%252Fdefault%252Ffiles%252Fstyles%252Fnew_app_article_detail%252Fpublic%252Fphotos%252F43_images%252F20210421_ili_yew_tee_cc_covid-19_vaccine_centre_-11.jpg%253Fitok%253D_srcZGq8%26width%3D1300%26height%3D650%26title%3D70%2525%2520of%2520population%2520vaccinated%2520against%2520Covid-19%253B%2520no%2520booking%2520needed%2520for%2520Pfizer%2520shot%2520from%2520Aug%252010%253A%2520MOH%26site_name%3DTODAYonline%26description%3DSINGAPORE%2520%25E2%2580%2594%2520Seventy%2520per%2520cent%2520of%2520Singapore%25E2%2580%2599s%2520population%2520are%2520vaccinated%2520against%2520Covid-19%2520as%2520of%2520Sunday%2520(Aug%25208)%252C%2520data%2520from%2520the%2520Ministry%2520of%2520Health%2520(MOH)%2520showed.%26type%3Darticle&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1, line 41: TypeError: (intermediate value).search is not a function
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+JavaScript error: https://www.todayonline.com/sites/all/themes/weekend/templates/static/js/2.7a48a80a0c16da9664a2.js, line 5: TypeError: t.$store is undefined
+1629131629126	Marionette	INFO	Stopped listening on port 61017
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
