@@ -5,7 +5,7 @@
   <li>-[x] Extraction summary</li>
   <li>-[x] Reddit bot:</li>
   <li>-[x] Abstraction summary</li> 
-  <li>-[] Automation Script that checks r/sg for updates</li>
+  <li>-[ ] Automation Script that checks r/sg for updates</li>
 </ul>
 
 <h4>How it works</h4> 
