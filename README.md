@@ -12,7 +12,7 @@
 You will need to a config.py file in order to run PRAW
 <ol>
   <li> <code>python create-db.py</code> to create the database to store the urls </li>
-  <li> <code>python main.py</code> to run the reddit bot to reply to posts in r/articlesgtest </li>
+  <li> <code>python main.py</code> to run the reddit bot to reply to posts in r/articlesgtest. The bot will search through all new posts and checks if the url already exists. If the url is unique, it will reply an abstractive summary as a comment. </li>
  </ol>
  
  Used the BART Transformer found in <a href= "https://github.com/huggingface">Hugging Face</a>
