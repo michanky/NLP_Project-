@@ -19,4 +19,4 @@ You will need to a config.py file in order to run PRAW
  
  Link to subreddit: <a href= "https://www.reddit.com/r/articlessgtest/">here</a>. Previous posts have already been populated with the bot's comments.
  
- 
+ ![alt text](https://github.com/michanky/NLP_Project-/blob/main/img/example.jpg?raw=true)
