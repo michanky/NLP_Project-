@@ -15,6 +15,13 @@ You will need to a config.py file in order to run PRAW
   <li> <code>python main.py</code> to run the reddit bot to reply to posts in r/articlesgtest. The bot will search through all new posts and checks if the url already exists. If the url is unique, it will reply an abstractive summary as a comment. </li>
  </ol>
  
+ <h4>Available domains<h4>
+  <ul>
+    <li><a href='https://www.todayonline.com/'>Today</a></li>
+    <li><a href='https://www.straitstimes.com/'>Straits Times (non-premium)</a></li>
+  </ul>
+     
+ 
  Used the BART Transformer found in <a href= "https://github.com/huggingface">Hugging Face</a>
  
  Link to subreddit: <a href= "https://www.reddit.com/r/articlessgtest/">here</a>. Previous posts have already been populated with the bot's comments.
