@@ -8,6 +8,13 @@
   <li>-[ ] Automation Script that checks r/sg for updates</li>
 </ul>
 
+<h4>Learning Outcomes</h4>
+<ul>
+  <li>To be familiar with huggingface API, a resource that has many of NLP transformers used today</li>
+  <li>To be familiar with beautifulsoup, urllib and requests, so as to access and extract news articles from websites</li>
+  <li>To make a bot on Reddit, as I am an active user on reddit</li>
+</ul>
+
 <h4>How it works</h4> 
 You will need to a config.py file in order to run PRAW
 <ol>
